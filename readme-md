@@ -1,13 +1,8 @@
 <!DOCTYPE>
 
-<a>
-<p> echo "# Full-Volume-" >> README.md
+echo "# Full-Volume-" >> README.md
 git init 
 git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/Bryan420/Full-Volume-.git
-git push -u origin master <p/>
-
-<p> <style> <img> https://scontent.fsjc1-3.fna.fbcdn.net/v/t1.0-9/12645008_983767455010864_7487457018781419248_n.jpg?oh=090703f9b815d38ce5be635199dcc490&oe=57A5A4D7
-
-<a/>
+git push -u origin master 
